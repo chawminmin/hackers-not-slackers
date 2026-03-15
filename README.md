@@ -1,2 +1,2 @@
-# hackers-not-slackers
-sds hacakathon 
+# SDS Hackathon
+team: hackers NOT slackers
